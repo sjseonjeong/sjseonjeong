@@ -1,6 +1,10 @@
-### Hi there 👋
+<div align="center">
+### Hi 👋
 
-<!--
+![sjseonjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjseonjeong&show_icons=true&theme=vue)
+
+<div>
+
 **sjseonjeong/sjseonjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
